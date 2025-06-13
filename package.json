@@ -1,6 +1,7 @@
 {
   "name": "practica",
   "version": "0.1.0",
+  "homepage": "https://Valeria-Miguel.github.com.io/practica/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
